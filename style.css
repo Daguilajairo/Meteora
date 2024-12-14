@@ -1,0 +1,59 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+    width: 325px;
+}
+
+.botao-cards{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.descricao-botao{
+    margin-top: 15px;
+}
+.btn-primary{
+    background-color:#9353FF ;
+}
+.promo, .simbolos{
+    color:#DAFF01 ;
+}
+
+.paragrafos{
+    color: white;
+}
+
+.secao{
+    background-color: black;
+    margin-top: 10px;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.p-footer{
+    margin-top: 10px;
+}
+
+.carrosel{
+    font-size: 50px;
+    
+    
+}
+
+.carrosel2{
+    font-size: 50px;
+   
+    
+}
+
+.carroselp{
+    
+    font-size: 15px;
+}
